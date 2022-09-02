@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+.sejarah{
+    color: blue;
+    font-size: 18px;
+}
+@media screen and (max-width: 600px){
+    
+}
